@@ -36,6 +36,11 @@
           font-size: 22px;
           text-decoration: none;
         }
-        h2{
-          margin-left: 10px;
+       img{
+        size: 500px;
+        height: 550px;
+        width:700px;
+        margin: 5px;
+        padding: 5px;
+        border-radius: 50px;
         }
