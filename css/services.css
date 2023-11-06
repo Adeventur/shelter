@@ -40,7 +40,36 @@
         size: 500px;
         height: 550px;
         width:700px;
-        margin: 5px;
+        margin-left: 15px;
         padding: 5px;
         border-radius: 50px;
+        }
+        p{
+          font-family: 'Times New Roman', Times, serif;
+          text-decoration: black;
+          margin-left: 15px;
+          padding: 5px;
+          font-size: x-large;
+          margin-bottom:  30px;
+        }
+        h3{
+          font-size: xx-large;
+          margin-bottom: 10px;
+          margin-left: 10px;
+          margin-top: 30px;
+        }
+        .btn{
+          background-color:  red;
+          color: aliceblue;
+          border: solid black ;
+          font-size: 50px;
+          cursor: pointer;
+          margin-left: 100px;
+          padding: 8px;
+          margin-bottom: 50px;
+          border-radius: 40px;
+        }
+        .btn a{
+          text-decoration: none;
+          color: white;
         }
