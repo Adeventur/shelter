@@ -1,35 +1,35 @@
-# _Resort Website_
+# _Animal Shelter_
 
 #### _{For Animal Shelter and pet home}_
 
 
 
-## Technologies Used
+# Technologies Used
 
 * HTML
 * CSS
 * GIT
 
-## Description
+# Description
 
-_It help other developers to have some basic sample what they want to do._
+_It help other developers to have some basic sample what they want to do in a cool way._
 
-## Setup/Installation Requirements
+# Setup/Installation Requirements
 
-* _Go to my github account_
-* _click on resort website_
-* _clone it to your_
-* _100% working_
+* _Go to my github account @Adeventur_
+* _click on shelter_
+* _clone it to your working dirctory_
+* _100% working smoothly_
 
-## Known Bugs
+# Known Bugs
 
 * _No Bugs_
 
 
-## License
+# License
 MIT
 
-## Contact Information
+# Contact Information
 
 _ADEBISI WASIU ABIOLA_
 **EMAIL: ADEBISIWASIU14022@GMAIL.COM**
